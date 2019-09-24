@@ -19,6 +19,3 @@ The goal was to predict the star rating for a product based on the review text. 
   * The [Microsoft PowerPoint version.](/docs/Capstone_presentation.pptx)
 
 
-
-
-https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/
