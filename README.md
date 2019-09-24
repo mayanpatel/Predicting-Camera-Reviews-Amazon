@@ -11,14 +11,14 @@ The goal was to predict the star rating for a product based on the review text. 
 
 ### Files in this repository:
 
-* [Report.html](/docs/Report.html) - Executive Report and Model Outputs 
-* [Amazon_Review_Predictor.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/) - Project Code (HTML)
+* [Report.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/Report.html) - Executive Report and Model Outputs 
+* [Amazon_Review_Predictor.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/Amazon_Review_Predictor.html) - Project Code (HTML)
 * [Amazon_Review_Predictor.ipynb](Amazon_Review_Predictor.ipynb) - Project Code (Jupyter Notebook)
-* [Capstone-presentation.pdf](/docs/Final_Capstone_Presentation.pdf) - An overview presentation which was prepared to educate a non-technical audience about the project, the results and  recommendations. 
+* [Capstone-presentation.pdf](/docs/Capstone_presentation.pdf) - An overview presentation which was prepared to educate a non-technical audience about the project, the results and  recommendations (PDF)
   * The [Google Slides version.](https://docs.google.com/presentation/d/')
-  * The [Microsoft PowerPoint version.](/docs/Capstone_Presentation.pptx)
+  * The [Microsoft PowerPoint version.](/docs/Capstone_presentation.pptx)
 
 
 
 
-
+https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/
