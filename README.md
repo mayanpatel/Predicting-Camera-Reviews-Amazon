@@ -1,30 +1,24 @@
-﻿
-# Amazon camera review predictor
+﻿## Capstone Project: Amazon camera review predictor
 
-I wanted to investigate the nature of online reviews due to their importance in purchase decisions. I am also a keen photographer/filmmaker for domain knowledge in this particular product.
+This project was completed during the final month of the General Assembly Data Science Immersive course in London.
 
-The goal was to predict the star rating for a product based on the review text. I was able to use natural language processing techniques, and sentiment analysis to feed into my classification models which were gaining expected F1 scores (0.71)
+I am a keen photographer and I wanted to gain insight into the nature of online reviews due to their influence in the purchase decision process. Reviews reveal context to how a product is used and how successfully it meets user needs. Reviews also reveal market insight into which features are divisive in opinion and if there are opportunities when bringing a new product to market. 
 
-Due to the imbalance in the dataset I went further to web scrape a further 4000 reviews of my own. After observing my initial results and the confusion matrix I realised I needed a more suitable metric than accuracy to evaluate the best model choice. As a final comparison I conducted a binary classification problem (predicting high or low ratings) which increased my models scores (0.91). I will further investigate procedures to over and under sample for unbalanced datasets for applications this is common in the real world.
+The goal was to predict the star rating for a product based on the review text. I used Natural Language Processing techniques, and entiment analysis to feed into my classification models. This was performed as a 1-5 star and also a binary classification problem. 
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install (name packages)
+- - - -
 
-```bash
-pip install foobar
-```
+### Files in this repository:
 
-## Usage
+* [Report.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/) - Executive Report and Model Outputs 
+* [Capstone.html](/docs/Capstone_Final_Report.ipynb) - Project Code (HTML)
+* [Capstone.ipynb](Capstone_Final_Report.ipynb) - Project Code (Jupyter Notebook)
+* [Capstone-presentation.pdf](/docs/Final_Capstone_Presentation.pdf) - An overview presentation which was prepared to educate a non-technical audience about the project, the results and  recommendations. 
+  * The [Google Slides version.](https://docs.google.com/presentation/d/')
+  * The [Microsoft PowerPoint version.](/docs/Capstone_Presentation.pptx)
 
-```python
-import 
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
