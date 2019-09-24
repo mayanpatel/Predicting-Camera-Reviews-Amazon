@@ -1,4 +1,4 @@
-﻿## Capstone Project: Amazon camera review predictor
+## Capstone Project: Amazon camera review predictor
 
 This project was completed during the final month of the General Assembly Data Science Immersive course in London.
 
@@ -11,9 +11,9 @@ The goal was to predict the star rating for a product based on the review text. 
 
 ### Files in this repository:
 
-* [Report.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/) - Executive Report and Model Outputs 
-* [Capstone.html](/docs/Capstone_Final_Report.ipynb) - Project Code (HTML)
-* [Capstone.ipynb](Capstone_Final_Report.ipynb) - Project Code (Jupyter Notebook)
+* [Report.html](/docs/Report.html) - Executive Report and Model Outputs 
+* [Amazon_Review_Predictor.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/) - Project Code (HTML)
+* [Amazon_Review_Predictor.ipynb](Amazon_Review_Predictor.ipynb) - Project Code (Jupyter Notebook)
 * [Capstone-presentation.pdf](/docs/Final_Capstone_Presentation.pdf) - An overview presentation which was prepared to educate a non-technical audience about the project, the results and  recommendations. 
   * The [Google Slides version.](https://docs.google.com/presentation/d/')
   * The [Microsoft PowerPoint version.](/docs/Capstone_Presentation.pptx)
