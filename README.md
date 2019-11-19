@@ -19,7 +19,7 @@ This was performed as a 1-5 star and also a binary classification problem.
 * [Amazon_Review_Predictor.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/Amazon_Review_Predictor.html) - Project Code (HTML)
 * [Amazon_Review_Predictor.ipynb](Amazon_Review_Predictor.ipynb) - Project Code (Jupyter Notebook)
 * [Capstone-presentation.pdf](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/docs/Capstone_presentation.pptx) - An overview presentation which was prepared to educate a non-technical audience about the project, the results and  recommendations (PDF)
-  * The [Google Slides version.](https://docs.google.com/presentation/d/')
+  * Also available on [Google Slides](https://docs.google.com/presentation/d/')
  
 
 
