@@ -1,25 +1,26 @@
-## Capstone Project: Amazon camera review predictor
+## Data Science Capstone Project: Predicting Amazon Camera reviews
 
-This project was completed during the final month of the General Assembly Data Science Immersive course in London.
+This project was completed during the General Assembly Data Science Immersive course in London.
 
-I am a keen photographer and I wanted to gain insight into online reviews due to their influence in the purchase decision process. 
+### Introduction and Aims:
+Amazon is the worlds largest online marketplace. Along with the growth of the  the platform and and e-commerce in general, comes with it the quantity and culture of product reviews. I am interested in camera reviews being a photographer but also as a consumer using reviews increasingly to drive purchase decisions.  
 
-Reviews reveal context to how a product is used and how successfully it meets user needs. Reviews also reveal market insight into which features are divisive in opinion and if there are opportunities when bringing a new product to market. 
+- The aim of this project is to use the Amazon review dataset to correctly predict the star rating on camera reviews.
+- A secondary objective is to identify camera features that lead to good or bad experiences through popular words mentioned in reviews.
 
-The goal was to predict the star rating for a product based on the review text. I used Natural Language Processing techniques, and sentiment analysis to feed into my classification models.
+Each row in my data is a review from the Amazon.com review dataset taken from a collection of reviews during the period 1995 - 2015.
 
-This was performed as a 1-5 star and also a binary classification problem. 
+The model is designed to be of interest to product developers and marketeers seeking understanding of the digital camera market through reviewer behaviour and identification of unmet needs.
+
+The analysis was performed both to predict on a scale of 1-5 star and as a binary classification problem.
 
 
 - - - -
 
-### Files in this repository:
+### Navigating through the repository:
 
-* [Report.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/Report.html) - Executive Report and Model Outputs 
+* [Report.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/Report.html) - Executive Report and Model Outputs
 * [Amazon_Review_Predictor.html](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/Amazon_Review_Predictor.html) - Project Code (HTML)
 * [Amazon_Review_Predictor.ipynb](Amazon_Review_Predictor.ipynb) - Project Code (Jupyter Notebook)
 * [Capstone-presentation.pdf](https://mayanpatel.github.io/Predicting-Camera-Reviews-Amazon/docs/Capstone_presentation.pdf) - Prepared to educate a non-technical audience about the process, results and recommendations (PDF)
   * Also available on [Google Slides](https://docs.google.com/presentation/d/1jSvuJIOygUnBvwMuyd8K1Vl6xem3-ovsxTSAdKHot4s/edit?usp=sharing)
- 
-
-
