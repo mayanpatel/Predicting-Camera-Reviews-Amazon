@@ -2,13 +2,13 @@
 
 This project was completed during the General Assembly Data Science Immersive course in London.
 
-### Introduction and Aims:
-Amazon is the worlds largest online marketplace. Along with the growth of the  the platform and and e-commerce in general, comes with it the quantity and culture of product reviews. I am interested in camera reviews being a photographer but also as a consumer using reviews increasingly to drive purchase decisions.  
+### Introduction and goals:
+Amazon is the worlds largest online marketplace. With e-commerce booming and more and more products sold online, this has been met with an increase in the quantity and influence of product reviews. I am interested in camera reviews being a photographer but also as a consumer where reviews drive my purchase decisions, and finally as a marketeer to study what consumers care about and use that information to create better products and identify unmet needs.
 
 - The aim of this project is to use the Amazon review dataset to correctly predict the star rating on camera reviews.
-- A secondary objective is to identify camera features that lead to good or bad experiences through popular words mentioned in reviews.
+- A secondary objective is to identify camera features that lead to good or bad experiences through popular terms mentioned in reviews.
 
-Each row in my data is a review from the Amazon.com review dataset taken from a collection of reviews during the period 1995 - 2015.
+Each row in my dataset is a review from the Amazon.com review dataset taken from a collection of reviews during the period 1995 - 2015.
 
 The model is designed to be of interest to product developers and marketeers seeking understanding of the digital camera market through reviewer behaviour and identification of unmet needs.
 
